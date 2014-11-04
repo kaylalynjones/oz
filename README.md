@@ -7,8 +7,8 @@ This is a top-down game created with Phaser.
 http://phaser.io/
 
 Our Group:
-*Brian Hiatt (bchiatt)
-*Daniel Roden (DSRoden)
-*Kayla Jones (kaylalynjones)
-*Liza Carter (LizaHCarter)
-*Shruti Sharma (shrutijalewar)
+* Brian Hiatt (bchiatt)
+* Daniel Roden (DSRoden)
+* Kayla Jones (kaylalynjones)
+* Liza Carter (LizaHCarter)
+* Shruti Sharma (shrutijalewar)
